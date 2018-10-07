@@ -8,6 +8,6 @@
 
 4. Start Xcode. It should ask you whether you want to load the plugin. If you've mistakenly clicked "No", run this command to reset this choice:
 
-    `defaults delete  com.apple.dt.Xcode DVTPlugInManagerNonApplePlugIns-Xcode-X.X     (X.X is your Xcode version)`
+    `defaults delete  com.apple.dt.Xcode DVTPlugInManagerNonApplePlugIns-Xcode-X.X`     (X.X is your Xcode version)
 
 5. You should see a new item, Appearance, under the View menu - that's what you use to switch themes.
